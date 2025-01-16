@@ -22,11 +22,14 @@ _A curated list of my Flutter projects._
 [Watch flutterInfoFilm Video](https://drive.google.com/file/d/1OtdinWoFktmyNJ9mnV4ZllUI4nMtS9le/view?usp=drive_link)
 
 **Key Features**:  
-**Comprehensive Film Details**: Access to a wide range of movie information, including synopses, cast, and crew.
-**Search Functionality**: Quickly find films by title or genre.
-**User Reviews**: Read and submit reviews for movies.
 
-**Technologies**: Flutter, Dart, Firebase  
+- Comprehensive Film Details: Access to a wide range of movie information, including synopses, cast, and crew.
+
+- Search Functionality: Quickly find films by title or genre.
+
+- User Reviews: Read and submit reviews for movies.
+
+- Technologies: Flutter, Dart, Firebase  
 
 ---
 
