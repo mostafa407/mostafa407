@@ -29,7 +29,7 @@ _A curated list of my Flutter projects._
 
 - User Reviews: Read and submit reviews for movies.
 
-- Technologies: Flutter, Dart, Firebase  
+**Technologies**: Flutter, Dart, Firebase  
 
 ---
 
