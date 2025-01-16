@@ -8,7 +8,7 @@ A passionate Flutter Developer with a knack for creating engaging mobile applica
 - 🌍 **Location**: [Egypt, Giza]  
 - 📧 **Email**: mostafamohamedit1@gmail.com
 - 🔗 **Portfolio**: [Your Personal Website or Portfolio](https://github.com/mostafa407)
-- 💼 **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/mostafa-mohamed-7378b5205)
+- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mostafa-mohamed-7378b5205)
 
 ---
 
@@ -79,7 +79,7 @@ _A curated list of my Flutter projects._
 ## 📬 Get in Touch  
 If you'd like to collaborate or just say hi:  
 - **Email**: mostafamohamedit1@gmail.com 
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/mostafa-mohamed-7378b5205)  
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mostafa-mohamed-7378b5205)  
 
 ---
 
