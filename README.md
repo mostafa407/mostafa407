@@ -18,7 +18,8 @@ _A curated list of my Flutter projects._
 ### 1. [flutterInfoFilm](https://github.com/mostafa407/flutterInfoFilm)  
 
 **Description**: A Flutter app that provides detailed information about films.
-![flutterInfoFilm Screenshot](https://drive.google.com/file/d/1OtdinWoFktmyNJ9mnV4ZllUI4nMtS9le/view?usp=drive_link)
+
+[Watch flutterInfoFilm Video](https://drive.google.com/file/d/1OtdinWoFktmyNJ9mnV4ZllUI4nMtS9le/view?usp=drive_link)
 
 **Key Features**:  
 **Comprehensive Film Details**: Access to a wide range of movie information, including synopses, cast, and crew.
@@ -33,7 +34,7 @@ _A curated list of my Flutter projects._
 
 **Description**: An e-commerce application built with Flutter, offering a seamless shopping experience. 
 
-![Ecommerce Screenshot](https://drive.google.com/file/d/1v23Pg82di6ROoiuRseJIazURHJEUGD8d/view?usp=drive_link)
+[Watch Ecommerce Video](https://drive.google.com/file/d/1v23Pg82di6ROoiuRseJIazURHJEUGD8d/view?usp=drive_link)
 
 **Key Features**:  
 - Product Listings: Browse through various product categories.
@@ -47,7 +48,7 @@ _A curated list of my Flutter projects._
 ### 3. [InstaApp](https://github.com/mostafa407/InstaApp)  
 **Description**: A Flutter app that mimics Instagram's core functionalities, using Firebase for backend services such as Firestore and Firebase Storage.
 
-![InstaApp Screenshot](https://drive.google.com/drive/folders/14GvUMANz-Tq051ec5QacTtL07Xsv4Gar?usp=drive_link)
+[Watch InstaApp Video](https://drive.google.com/drive/folders/14GvUMANz-Tq051ec5QacTtL07Xsv4Gar?usp=drive_link)
 
 **Key Features**:  
 - User Authentication: Users can sign up, log in, and manage their accounts with Firebase Authentication.
